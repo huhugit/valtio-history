@@ -1,0 +1,25 @@
+packages/history-utility/src/__tests__/history-utility.vanilla.spec.ts
+  s_e3830d7af00fd3::t_679b75177258d6 1,27-41
+packages/history-utility/src/index.ts
+  s_e3830d7af00fd3::t_cd978e12b5bf0c 266-276
+  s_e3830d7af00fd3::t_e2387db927a270 32,191,224,245,258,322,358-359,362-369
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "893da70f8021dfae6284d01b0654ad52c3ef48b3",
+  "prompts": {},
+  "logical_commit_id": "6a77f689e23ea53d2ec80107a30542491e17f1db",
+  "sessions": {
+    "s_e3830d7af00fd3": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "bdcae6d2-e50a-46dc-8e8b-1edb48a718c5",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "wangqi <wangqi@bigo.sg>",
+      "total_additions": 40,
+      "total_deletions": 3
+    }
+  }
+}
